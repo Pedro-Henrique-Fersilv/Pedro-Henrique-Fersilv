@@ -1,8 +1,8 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">👋 Hi there, welcome to my Github profile</h2>
 
 ###
 
-<p align="left">- Name: Pedro Henrique Ferreira da Silva<br>- Age: 19 Years<br>- Studying Full Stack programming for 2 years</p>
+<p align="left">My name is Pedro Henrique Ferreira da Silva, I'm 19 years old and I'm a Full Stack student from Itabira-MG Brazil</p>
 
 ###
 
